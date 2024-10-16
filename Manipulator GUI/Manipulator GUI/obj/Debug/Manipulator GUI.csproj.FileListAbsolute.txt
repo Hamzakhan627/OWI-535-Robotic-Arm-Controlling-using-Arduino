@@ -1,0 +1,20 @@
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.exe.config
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.exe
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.pdb
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.AssemblyReference.cache
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator_GUI.Form1.resources
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator_GUI.Properties.Resources.resources
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.GenerateResource.cache
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.exe
+C:\Users\Hamza Zarshaid\source\repos\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.pdb
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.exe.config
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.exe
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\bin\Debug\Manipulator GUI.pdb
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.AssemblyReference.cache
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator_GUI.Form1.resources
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator_GUI.Properties.Resources.resources
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.GenerateResource.cache
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.exe
+C:\Users\Hamza Zarshaid\Desktop\Manipulator GUI\Manipulator GUI\Manipulator GUI\obj\Debug\Manipulator GUI.pdb
